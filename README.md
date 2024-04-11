@@ -28,9 +28,11 @@ Construye un histograma de las amplitudes corregidas que exceden un umbral negat
 
 Se transcriben los datos del histograma a formato root, herramienta que permite una visualizacion interactiva, pudiendo calcular y modificar diferentes parametros.
 
-## Visualización con Plotly
+## Análisis Interactivo de Señales de Voltaje
 
-Las visualizaciones interactivas permiten explorar los datos de manera detallada mediante zoom y paneo.
+Para una exploración detallada y un análisis interactivo de las señales de voltaje, proporcionamos una visualización completa utilizando Plotly.
+
+Acceda al análisis interactivo a través del siguiente enlace: [Visualización Interactiva de Señales de Voltaje](https://drive.google.com/file/d/1yYJdzBc_tnzKvMe-skEK3YgvXNz5kuAX/view?usp=sharing).
 
 ## Herramientas Utilizadas
 
